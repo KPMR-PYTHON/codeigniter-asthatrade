@@ -1,0 +1,54 @@
+[08-Dec-2016 20:40:59 UTC] PHP Parse error:  syntax error, unexpected 'database' (T_STRING) in /home/asthatrade/public_html/acstrade.in/application/models/Account_model.php on line 15
+[12-Dec-2016 04:29:42 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/asthatrade/public_html/acstrade.in/application/views/admin/viewUserDetails.php on line 42
+[12-Dec-2016 04:31:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/asthatrade/public_html/acstrade.in/application/views/admin/viewUserDetails.php on line 419
+[12-Dec-2016 05:56:31 UTC] PHP Parse error:  syntax error, unexpected '$getTicket' (T_VARIABLE), expecting '(' in /home/asthatrade/public_html/acstrade.in/application/views/admin/viewSupport.php on line 55
+[15-Dec-2016 09:15:58 UTC] PHP Fatal error:  Call to undefined method Account_model::saveCallMe() in /home/asthatrade/public_html/acstrade.in/application/controllers/Account.php on line 116
+[15-Dec-2016 09:16:04 UTC] PHP Fatal error:  Call to undefined method Account_model::saveCallMe() in /home/asthatrade/public_html/acstrade.in/application/controllers/Account.php on line 116
+[15-Dec-2016 09:58:55 UTC] PHP Fatal error:  Call to undefined method Account_model::saveCallMe() in /home/asthatrade/public_html/acstrade.in/application/controllers/Account.php on line 116
+[15-Dec-2016 09:59:01 UTC] PHP Fatal error:  Call to undefined method Account_model::saveCallMe() in /home/asthatrade/public_html/acstrade.in/application/controllers/Account.php on line 116
+[15-Dec-2016 09:59:42 UTC] PHP Fatal error:  Call to undefined method Account_model::saveCallMe() in /home/asthatrade/public_html/acstrade.in/application/controllers/Account.php on line 116
+[15-Dec-2016 09:59:44 UTC] PHP Fatal error:  Call to undefined method Account_model::saveCallMe() in /home/asthatrade/public_html/acstrade.in/application/controllers/Account.php on line 116
+[15-Dec-2016 09:59:44 UTC] PHP Fatal error:  Call to undefined method Account_model::saveCallMe() in /home/asthatrade/public_html/acstrade.in/application/controllers/Account.php on line 116
+[15-Dec-2016 09:59:53 UTC] PHP Fatal error:  Call to undefined method Account_model::saveCallMe() in /home/asthatrade/public_html/acstrade.in/application/controllers/Account.php on line 116
+[15-Dec-2016 09:59:53 UTC] PHP Fatal error:  Call to undefined method Account_model::saveCallMe() in /home/asthatrade/public_html/acstrade.in/application/controllers/Account.php on line 116
+[15-Dec-2016 09:59:53 UTC] PHP Fatal error:  Call to undefined method Account_model::saveCallMe() in /home/asthatrade/public_html/acstrade.in/application/controllers/Account.php on line 116
+[20-Dec-2016 05:05:35 UTC] PHP Fatal error:  Call to undefined function set_realpath() in /home/asthatrade/public_html/acstrade.in/application/controllers/Account.php on line 894
+[23-Dec-2016 10:15:07 UTC] PHP Fatal error:  Call to a member function insertCall() on null in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1075
+[23-Dec-2016 11:39:31 UTC] PHP Fatal error:  Call to a member function editCall() on null in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1082
+[24-Dec-2016 10:05:52 UTC] PHP Fatal error:  Cannot redeclare Site::profile() in /home/asthatrade/public_html/acstrade.in/application/controllers/Site.php on line 140
+[24-Dec-2016 10:05:52 UTC] PHP Fatal error:  Cannot redeclare Site::profile() in /home/asthatrade/public_html/acstrade.in/application/controllers/Site.php on line 140
+[24-Dec-2016 10:06:06 UTC] PHP Fatal error:  Cannot redeclare Site::logout() in /home/asthatrade/public_html/acstrade.in/application/controllers/Site.php on line 187
+[24-Dec-2016 10:06:10 UTC] PHP Fatal error:  Cannot redeclare Site::logout() in /home/asthatrade/public_html/acstrade.in/application/controllers/Site.php on line 187
+[24-Dec-2016 11:31:06 UTC] PHP Parse error:  syntax error, unexpected '$commoditypaid' (T_VARIABLE) in /home/asthatrade/public_html/acstrade.in/application/views/site/payment.php on line 76
+[26-Dec-2016 13:10:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/asthatrade/public_html/acstrade.in/application/controllers/Account.php on line 574
+[26-Dec-2016 13:11:30 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/asthatrade/public_html/acstrade.in/application/controllers/Account.php on line 574
+[26-Dec-2016 19:16:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/asthatrade/public_html/acstrade.in/application/views/site/payment.php on line 92
+[27-Dec-2016 09:14:49 UTC] PHP Parse error:  syntax error, unexpected '$newname' (T_VARIABLE) in /home/asthatrade/public_html/acstrade.in/application/controllers/Account.php on line 1591
+[27-Dec-2016 11:23:48 UTC] PHP Fatal error:  Call to undefined method Account_model::getAllAccountStatusDetails() in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1093
+[27-Dec-2016 14:58:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1157
+[28-Dec-2016 15:46:46 UTC] PHP Parse error:  syntax error, unexpected '$userIds' (T_VARIABLE) in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1209
+[28-Dec-2016 15:46:54 UTC] PHP Parse error:  syntax error, unexpected '$userIds' (T_VARIABLE) in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1209
+[28-Dec-2016 20:02:26 UTC] PHP Parse error:  syntax error, unexpected '$pricontent' (T_VARIABLE) in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1240
+[28-Dec-2016 20:03:08 UTC] PHP Parse error:  syntax error, unexpected '$rec' (T_VARIABLE) in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1265
+[28-Dec-2016 20:03:37 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1276
+[28-Dec-2016 20:34:35 UTC] PHP Parse error:  syntax error, unexpected '$newname' (T_VARIABLE), expecting function (T_FUNCTION) in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1219
+[28-Dec-2016 20:46:17 UTC] PHP Fatal error:  Call to undefined method Account_model::getAddContent() in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1212
+[28-Dec-2016 20:46:57 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/asthatrade/public_html/acstrade.in/application/models/Account_model.php on line 1819
+[28-Dec-2016 20:49:21 UTC] PHP Fatal error:  Call to undefined method Account_model::getCurrBatchNumber() in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1227
+[28-Dec-2016 22:14:30 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1239
+[29-Dec-2016 09:27:07 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/asthatrade/public_html/acstrade.in/application/models/Account_model.php on line 1869
+[29-Dec-2016 09:33:19 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/asthatrade/public_html/acstrade.in/application/models/Account_model.php on line 1869
+[29-Dec-2016 09:35:39 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/asthatrade/public_html/acstrade.in/application/models/Account_model.php on line 1869
+[30-Dec-2016 17:24:02 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1503
+[30-Dec-2016 17:24:51 UTC] PHP Parse error:  syntax error, unexpected ''000000'' (T_CONSTANT_ENCAPSED_STRING) in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1552
+[30-Dec-2016 17:25:33 UTC] PHP Parse error:  syntax error, unexpected ''000000'' (T_CONSTANT_ENCAPSED_STRING) in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1552
+[30-Dec-2016 17:25:41 UTC] PHP Parse error:  syntax error, unexpected ''000000'' (T_CONSTANT_ENCAPSED_STRING) in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1552
+[30-Dec-2016 17:25:44 UTC] PHP Parse error:  syntax error, unexpected ''000000'' (T_CONSTANT_ENCAPSED_STRING) in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1552
+[30-Dec-2016 17:25:47 UTC] PHP Parse error:  syntax error, unexpected ''000000'' (T_CONSTANT_ENCAPSED_STRING) in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1552
+[30-Dec-2016 19:41:38 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1560
+[31-Dec-2016 08:13:00 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1555
+[31-Dec-2016 08:13:45 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1555
+[31-Dec-2016 15:12:55 UTC] PHP Fatal error:  Cannot redeclare Admin::classFile() in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1576
+[31-Dec-2016 15:14:05 UTC] PHP Parse error:  syntax error, unexpected '$', expecting variable (T_VARIABLE) in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1603
+[31-Dec-2016 15:14:24 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ')' in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1608
+[31-Dec-2016 15:25:47 UTC] PHP Fatal error:  Call to a member function format() on boolean in /home/asthatrade/public_html/acstrade.in/application/controllers/Admin.php on line 1629

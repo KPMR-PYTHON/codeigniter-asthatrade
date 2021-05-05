@@ -1,0 +1,6 @@
+	var per_add  = <?php echo $getAddressPermanent['ad1'];?> ;
+	var per_city = <?php echo $getAddressPermanent['ad2'];?> ;
+	var per_pin = <?php echo $getAddressPermanent['pincode'];?> ;
+	var per_country = <?php echo $permanent_country_id;?> ;
+	var per_state = <?php echo $Permanent_state_id;?> ;
+	var per_add_proof = <?php echo $Permanent_addProofId;?>;
